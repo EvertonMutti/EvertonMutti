@@ -21,9 +21,10 @@
 ![image](https://user-images.githubusercontent.com/84800212/170879189-e0967b5b-72ca-4fd9-919a-cd9ab29b0100.png)
 
 
-[![card](https://github-readme-stats.vercel.app/api?username=EvertonMutti&theme=default)](https://github.com/EvertonMutti/)
+
+ <!-- [![card](https://github-readme-stats.vercel.app/api?username=EvertonMutti&theme=default)](https://github.com/EvertonMutti/)
 <br>
-[![EvertonMutti](https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonMutti&hide=html&layout=compact&theme=default)](https://github.com/EvertonMutti/) 
+[![EvertonMutti](https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonMutti&hide=html&layout=compact&theme=default)](https://github.com/EvertonMutti/) -->
 
 <h3> E você pode me achar em: </h3> 
 
