@@ -26,11 +26,11 @@
 <br> -->
 <div align = "center">
   
-
- 
 <h3> E você pode me achar no: </h3> 
   
 [![image](https://user-images.githubusercontent.com/84800212/170803250-ef28db2a-0d73-47a0-886e-e32505358d33.png)](https://www.linkedin.com/in/evertonmutti/)
+  
+</div>
   
 
 
