@@ -2,7 +2,7 @@
   <img src="https://github.com/EvertonMutti/Evertonmutti/raw/main/Contents/Header - Everton Mutti.gif" alt="Oi, eu sou o Everton">
 </h1>
 
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28"> Estou trabalhando para me aperfeiçoar e virar um Ciêntista de dados com:</h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28"> Estou trabalhando para me aperfeiçoar com:</h2>
 
 ![image](https://user-images.githubusercontent.com/84800212/170879176-b88d62f5-333f-4421-8321-7eb9fcdd855f.png)
 ![image](https://user-images.githubusercontent.com/84800212/170879189-e0967b5b-72ca-4fd9-919a-cd9ab29b0100.png)
