@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/EvertonMutti/Evertonmutti/raw/main/Contents/Header - Everton Mutti.gif" alt="Oi, eu sou o Everton">
+   Oi, eu sou o Everton
 </h1>
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28"> Estou trabalhando para me aperfeiçoar com:</h2>
