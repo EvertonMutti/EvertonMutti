@@ -32,6 +32,3 @@
 
 
 
-<div align="center">
-   <img src="https://github.com/EvertonMutti/Evertonmutti/raw/main/Contents/The Witcher 3- Wild Hunt Main.gif"
-</div>
