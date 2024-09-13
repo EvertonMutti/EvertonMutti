@@ -36,14 +36,4 @@
                                                                                           
 
 
-<table style="width: 100%; text-align: center;">
-  <tr>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonMutti&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-        style="margin: 0 auto; display: block;"
-      />
-    </td>
-  </tr>
-</table>
+
